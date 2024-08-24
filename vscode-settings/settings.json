@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "none",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "GitHub Dark Dimmed"
+}
