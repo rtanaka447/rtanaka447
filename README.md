@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rtanaka447
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 🎮 好きなゲーム
+- ピクミン
+- Factorio
+- Prison Architect
+- DRAPLINE
+- Ratatan
 
-<!---
-rtanaka447/rtanaka447 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🍚 好きなごはん屋さん
+- 牧のうどん
+- 山岡家
